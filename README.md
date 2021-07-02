@@ -1,0 +1,2 @@
+# Lagos-theme
+Shopify theme
